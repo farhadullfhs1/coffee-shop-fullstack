@@ -18,7 +18,7 @@ Full-stack coffee shop e-commerce app built with React and Django REST Framework
 - Order cancellation support
 - Responsive UI for mobile and desktop
 
-## AWS Deployment Proof
+## AWS Deployment
 
 The project was deployed and verified on AWS Free Tier before being decommissioned to avoid ongoing charges.
 
@@ -34,8 +34,3 @@ Live checks captured before teardown:
 - Frontend: `200 OK`
 - API: `200 OK` from `/api/products/`
 
-See [`docs/deployment-proof.md`](docs/deployment-proof.md) for a sanitized proof summary.
-
-## Privacy
-
-This repository is kept free of AWS access keys, account numbers, tokens, and other private details.
